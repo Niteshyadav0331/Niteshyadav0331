@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently Studying at JECRC University
 - 🌱 My Skills are Python Machine Learning, Deep Learning, NLP and DataStructure and algorithms.
-- 💼 I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles in Machine Learning and Data Science.
+- 💼 I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles in Machine Learning and Data Science Domain.
 - 💬 Ask me about Tech related stuff.
 - 📫 How to reach me: https://www.linkedin.com/in/nitesh-yadav-b06b70192/
-
+- 🔭 Please have a look at my work on kaggle : https://www.kaggle.com/niteshyadav3103
 - 😄 Pronouns: He/His
 - 💬 phone no = 8504810503
 - 💼 Email id = niteshyadav3103@gmail.com
