@@ -2,7 +2,7 @@
 ### Bonjour, I am Nitesh 👋
 
 - 🔭 I’m currently Studying at JECRC University
-- 🌱 I’m currently learning Machine Learning, Deep Learning, NLP and DataStructure and algorithms.
+- 🌱 My Skills are Python Machine Learning, Deep Learning, NLP and DataStructure and algorithms.
 - 💼 I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles in Machine Learning and Data Science.
 - 💬 Ask me about Tech related stuff.
 - 📫 How to reach me: https://www.linkedin.com/in/nitesh-yadav-b06b70192/
