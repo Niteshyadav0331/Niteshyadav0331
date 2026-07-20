@@ -10,7 +10,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/nitesh0331/
 - 🔭 Please have a look at my work on kaggle : https://www.kaggle.com/niteshyadav3103
 - 😄 Pronouns: He/His
-- 💬 phone no = 8504810503/8529775057
+- 💬 phone no = 8504810503 / 8529775057
 - 💼 Email id = niteshyadav3103@gmail.com
 
 
