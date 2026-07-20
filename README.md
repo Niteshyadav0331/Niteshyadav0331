@@ -1,11 +1,11 @@
-### Hi there 👋
+<img width="1095" height="373" alt="image" src="https://github.com/user-attachments/assets/6ed10ad6-635f-4a3f-a00f-3f8938810779" />### Hi there 👋
 ### Bonjour, I am Nitesh 👋
 
 - 🔭 I’m currently Studying at JECRC University
 - 🌱 My Skills are Python Machine Learning, Deep Learning, NLP and DataStructure and algorithms.
 - 💼 I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles in Machine Learning and Data Science Domain.
 - 💬 Ask me about Tech related stuff.
-- 📫 How to reach me: https://www.linkedin.com/in/nitesh-yadav-b06b70192/
+- 📫 How to reach me: https://www.linkedin.com/in/nitesh0331/
 - 🔭 Please have a look at my work on kaggle : https://www.kaggle.com/niteshyadav3103
 - 😄 Pronouns: He/His
 - 💬 phone no = 8504810503
