@@ -1,4 +1,4 @@
-<img width="1095" height="373" alt="image" src="https://github.com/user-attachments/assets/6ed10ad6-635f-4a3f-a00f-3f8938810779" />### Hi there 👋
+### Hi there 👋
 ### Bonjour, I am Nitesh 👋
 
 - 🔭 I’m currently Studying at JECRC University
@@ -19,7 +19,3 @@
   <img height="170px" width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niteshyadav0331&layout=compact&theme=react" />
 </p>
 </div>
-
-
-
-
