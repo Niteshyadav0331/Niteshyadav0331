@@ -1,10 +1,12 @@
 ### Hi there 👋
 ### Bonjour, I am Nitesh 👋
 
-- 🔭 I’m currently Studying at JECRC University
-- 🌱 My Skills are Python Machine Learning, Deep Learning, NLP and DataStructure and algorithms.
-- 💼 I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles in Machine Learning and Data Science Domain.
-- 💬 Ask me about Tech related stuff.
+- 🔭 Currently working as **Data Science Consultant at EY**
+- 🤖 Building **GenAI, Agentic AI, RAG & LLM Applications**
+- ☁️ Working with **Azure OpenAI, Azure AI Search, FastAPI, Docker & Kubernetes**
+- 🌱 Exploring **LangGraph, Agno, MCP, PydanticAI & AI Agents**
+- 🏆 Kaggle Notebooks Master (Top 0.03%) | EY Business Extraordinaire Award
+- 💬 Ask me about **GenAI, RAG, Azure AI, LLMOps, Machine Learning & Data Science**
 - 📫 How to reach me: https://www.linkedin.com/in/nitesh0331/
 - 🔭 Please have a look at my work on kaggle : https://www.kaggle.com/niteshyadav3103
 - 😄 Pronouns: He/His
